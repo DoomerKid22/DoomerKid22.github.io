@@ -2,4 +2,5 @@
 |-------|-------|-------|  
 | 3DM游戏网 | [https://www.3dmgame.com/](url) | 游戏门户网站，曾经是国内游戏资源最多的网站。 |  
 | 游民星空 | [https://www.gamersky.com/](url) | 游戏门户网站，大型单机游戏门户网站，提供特色资讯和下载。 |
-|小叽资源|[https://steamzg.com/](url)|游戏博客网站，可免费下载。|
+| 小叽资源 | [https://steamzg.com/](url) | 游戏博客网站，可免费下载。|
+| 在线DOS游戏 | [https://dos.lol/](url) | 童年回忆单机。 |
