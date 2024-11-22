@@ -5,3 +5,4 @@
 | 小叽资源 | [https://steamzg.com/](https://steamzg.com/) | 游戏博客网站，可免费下载。|
 | 在线DOS游戏 | [https://dos.lol/](https://dos.lol/) | 童年回忆单机。 |
 | 刺客边风游戏资源 | [https://www.alipan.com](https://www.alipan.com/s/nBTQ36fF84y/folder/66424da91209e543fa81465d8d27e8bacc7d2a9a) | 密码：te87 |
+| WeMod修改器 | [https://www.wemod.com/zh](https://www.wemod.com/zh) | 最完善的游戏修改器。 |
